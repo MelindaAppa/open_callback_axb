@@ -112,6 +112,22 @@ X号智能管理平台是基于云计算与AI技术的通信资源综合管理�
 
 **系统部分截图**
 ![image text](https://github.com/MelindaAppa/open_callback_axb/blob/main/img/0.png "系统登录")
+![image text](https://github.com/MelindaAppa/open_callback_axb/blob/main/img/1.png)
+![image text](https://github.com/MelindaAppa/open_callback_axb/blob/main/img/2.png)
+![image text](https://github.com/MelindaAppa/open_callback_axb/blob/main/img/3.png)
+![image text](https://github.com/MelindaAppa/open_callback_axb/blob/main/img/4.png)
+![image text](https://github.com/MelindaAppa/open_callback_axb/blob/main/img/5.png)
+![image text](https://github.com/MelindaAppa/open_callback_axb/blob/main/img/6.png)
+![image text](https://github.com/MelindaAppa/open_callback_axb/blob/main/img/7.png)
+![image text](https://github.com/MelindaAppa/open_callback_axb/blob/main/img/8.png)
+![image text](https://github.com/MelindaAppa/open_callback_axb/blob/main/img/9.png)
+![image text](https://github.com/MelindaAppa/open_callback_axb/blob/main/img/10.png)
+![image text](https://github.com/MelindaAppa/open_callback_axb/blob/main/img/11.png)
+![image text](https://github.com/MelindaAppa/open_callback_axb/blob/main/img/12.png)
+![image text](https://github.com/MelindaAppa/open_callback_axb/blob/main/img/13.png)
+![image text](https://github.com/MelindaAppa/open_callback_axb/blob/main/img/14.png)
+![image text](https://github.com/MelindaAppa/open_callback_axb/blob/main/img/16.png)
+![image text](https://github.com/MelindaAppa/open_callback_axb/blob/main/img/17.png)
 
 
 
