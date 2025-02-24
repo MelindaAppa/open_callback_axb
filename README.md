@@ -103,6 +103,7 @@ X号智能管理平台是基于云计算与AI技术的通信资源综合管理�
 
 ✨ **免费试用通道已开启**  
 👉 **联系微信：nqbt45182**   备注小号开放平台
+![image text](https://github.com/MelindaAppa/open_callback_axb/blob/main/img/01.png)
 
 - 专属技术顾问1对1部署支持  
 
